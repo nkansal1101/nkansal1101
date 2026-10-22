@@ -70,7 +70,7 @@
 - Analysis pipeline that scores stocks across 40 parameters to rank investment candidates
 - 90-day self-evaluation loop that tracks predictions and refines the engine over time
 
-🔗 [Live Demo](#) &nbsp;·&nbsp; 🔒 Source code private, available on request
+🔗 [Live Demo]((https://capitalmind.tech)) &nbsp;·&nbsp; 🔒 Source code private, available on request
 
 ---
 
